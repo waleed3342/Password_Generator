@@ -1,3 +1,8 @@
+# Features:
+#1. User input for number of letters, numbers, and symbols
+#2. Random password generation
+#3. Shuffled password for added security
+
 import random
 import string
 
